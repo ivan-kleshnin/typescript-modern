@@ -8,6 +8,10 @@
 - Avoid `Object` and `object`, use `{[key: string] : unknown}` instead.
 - Avoid Enums, use Unions instead.
 
+#### Unsorted
+
+- [Global variables](https://mariusschulz.com/blog/declaring-global-variables-in-typescript)
+
 #### Whys
 
 - [Any-vs-Unknown](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
