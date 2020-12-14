@@ -16,3 +16,7 @@
 
 - [Any-vs-Unknown](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
 - [Object-vs-object-vs-{}](https://stackoverflow.com/questions/49464634/difference-between-object-and-in-typescript)
+
+### Resources
+
+- [TypeScript evolution by Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
