@@ -5,7 +5,7 @@
 #### Rules
 
 - Avoid `any`, use `unknown` instead.
-– Avoid `Object` and `object`, use `{[key: string] : unknown}` instead.
+- Avoid `Object` and `object`, use `{[key: string] : unknown}` instead.
 - Avoid Enums, use Unions instead.
 
 #### Whys
