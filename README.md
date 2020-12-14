@@ -19,4 +19,5 @@
 
 ### Resources
 
+- [React and TypeScript](https://react-typescript-cheatsheet.netlify.app/)
 - [TypeScript evolution by Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
